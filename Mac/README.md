@@ -14,4 +14,5 @@
  * See if OSX Keychain can be accessed
  * Use Lastpass cil and Keychain for everything
  * Lastpass cli: https://github.com/lastpass/lastpass-cli
- * MS Code extensions
+ - [ ] MS Code extensions
+  - [ ] [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
