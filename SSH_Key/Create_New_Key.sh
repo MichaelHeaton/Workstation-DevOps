@@ -12,3 +12,11 @@ yes y | ssh-keygen -q -t rsa -N '' -f ~/.ssh/id_rsa >/dev/null
 
 
 # Add to Lastpass
+## Private Key
+cat ~/.ssh/id_rsa
+
+## Public Key
+cat ~/.ssh/id_rsa.pub
+
+# Update dating Adobe SSH keys
+# https://iam.corp.adobe.com/#/sshkey

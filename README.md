@@ -33,19 +33,30 @@ This project is to automate rebuild my prefered DevOps workstation setup.
  * MS Office
  * MS Teams
  * Adobe
-  * Cryptr
+  * Okta
+  * vmFusion
+
 * DevOps system role
  * AWS CLI
  * Ansible
  * Chef.oi
  * Vagrant
  * Vurtial box
+ * Hasicorp Vault
+ * Hasicorp Consul
  * DevOps IDE:
-  * MS Code
+  * VSCode
+  - [Extensions using CodeLens](https://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup)
+  - [Visual Studio Code how to resolve merge conflicts with git?](https://stackoverflow.com/questions/38216541/visual-studio-code-how-to-resolve-merge-conflicts-with-git)
+  -[Chef Infra Extension for Visual Studio Code](https://github.com/chef/vscode-chef)
+
+  ```
+  (if you do not have the topbar, set "editor.codeLens": true in User Preferences)
+  ```
   * Sublime
   * Atom
   * PyCharm
- * Git Hub Dewsktop
+ * Git Hub Desktop
  * iTerm
  * Beyond Compare
 * Gaming system role

@@ -2,20 +2,29 @@
 
 
 # Installed apps/tools
+## Homebrew
+(https://brew.sh/)
 
+## Mas CLI
+(https://github.com/mas-cli/mas)
+
+## Mac Ports
+(https://www.macports.org/index.php)
 
 # Todo
- * Create boot strap script
- * Review scritp for tools that it installs
- * Convert setup to use Ansible (https://hvops.com/articles/ansible-mac-osx/)
- * iTerm2 Profiles
- * FileZilla Profiles
- * Look at update script option's
- * See if OSX Keychain can be accessed
- * Use Lastpass cil and Keychain for everything
- * Lastpass cli: https://github.com/lastpass/lastpass-cli
- - [ ] MS Code extensions
-  - [ ] [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+ * [ ] Create boot strap script
+ * [ ] Review MacPorts (https://www.macports.org/index.php)
+ * [ ] Review scritp for tools that it installs
+ * [ ] Convert setup to use Ansible (https://hvops.com/articles/ansible-mac-osx/)
+ * [ ] iTerm2 Profiles
+ * [ ] FileZilla Profiles
+ * [ ] Look at update script option's
+ * [ ] See if OSX Keychain can be accessed
+ * [ ] Use Lastpass cil and Keychain for everything
+ * [ ] Lastpass cli: https://github.com/lastpass/lastpass-cli
+ * [ ] Review MS Code extensions
+ * [ ] Install MS Code extension: [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+ * [ ] Software list from Mac
 
 # Supported OS
 * MacOS Monterey
@@ -27,6 +36,75 @@
 # Contributing
 
 # Current state
+
+## Brew
+
+### Brew Update
+(https://docs.brew.sh/Manpage#update-options)
+Fetch the newest version of Homebrew and all formulae from GitHub using git(1) and perform any necessary migrations.
+
+```
+brew update
+```
+
+### Brew Upgrade
+(https://docs.brew.sh/Manpage#upgrade-options-outdated_formulaoutdated_cask-)
+Upgrade outdated casks and outdated, unpinned formulae using the same options they were originally installed with, plus any appended brew formula options. If cask or formula are specified, upgrade only the given cask or formula kegs (unless they are pinned; see pin, unpin).
+
+```
+brew upgrade
+```
+
+### Brew List
+(https://docs.brew.sh/Manpage#list-ls-options-installed_formulainstalled_cask-)
+List all installed formulae and casks.
+
+```
+➜  ~ brew list
+==> Formulae
+adns		consul		gnutls		libgcrypt	libusb		npth		pcre		readline	vault
+ansible		coreutils	guile		libgpg-error	libyaml		oniguruma	pcre2		ruby		wget
+awscli		editorconfig	jemalloc	libidn2		m4		openjdk		pinentry	six		xz
+bash-completion	gdbm		jq		libksba		mas		openjdk@11	pkg-config	sqlite		zsh
+bdw-gc		gettext		libassuan	libnghttp2	mpdecimal	openssl@1.1	python@3.10	swagger-codegen
+c-ares		git		libev		libtasn1	ncurses		openssl@3	python@3.7	tcl-tk
+ca-certificates	gmp		libevent	libtool		nettle		p11-kit		python@3.8	telnet
+cli53		gnupg		libffi		libunistring	nghttp2		packer		python@3.9	unbound
+
+==> Casks
+atom			docker			iterm2			pycharm-ce		steam			virtualbox
+beyond-compare		github			notion			slack			sublime-text		visual-studio-code
+chef-workstation	google-drive		postman			sourcetree		vagrant
+```
+
+## MAS CLI for OSX
+[GitHub](https://github.com/mas-cli/mas)
+
+```
+$ mas list
+
+926036361   LastPass                      (4.4.0)
+406056744   Evernote                      (10.41.5)
+409183694   Keynote                       (12.1)
+403012667   Textual                       (4.1.8)
+419330170   Moom                          (3.2.25)
+441258766   Magnet                        (2.9.0)
+682658836   GarageBand                    (10.4.6)
+450986437   iDesktop                      (1.3)
+1290358394  Cardhop                       (2.0.10)
+586862299   Duplicate Cleaner For iPhoto  (1.28)
+409203825   Numbers                       (12.1)
+1458095236  FileZilla                     (3.43.0)
+409201541   Pages                         (12.1)
+975937182   Fantastical                   (3.6.6)
+408981434   iMovie                        (10.3.3)
+1037126344  Apple Configurator            (2.15.1)
+1295203466  Microsoft Remote Desktop      (10.7.8)
+963642514   Duplicate Photos Fixer Pro    (4.5)
+1176895641  Spark                         (2.11.22)
+1055511498  Day One                       (7.12)
+412529613   Cinch                         (1.2.4)
+```
 
 # Sofeware List
 ## OSX Package Management
@@ -44,8 +122,6 @@ brew install mas
 brew install vault-cli
 ```
 
-# ToDo
-* Software list from Mac
 # Install Etcher Create USB ISO
 brew cask install Etcher
 # Open SSL
