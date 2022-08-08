@@ -75,3 +75,7 @@ This would be for Desktop and mobile OS.
 ## App config sync
 
 ## Book mark sync
+Look for a way to sync bookmarks between Chrome and Safri
+
+Windows only:
+https://chrome.google.com/webstore/detail/icloud-bookmarks/fkepacicchenbjecpbpbclokcabebhah?hl=en
