@@ -1,20 +1,17 @@
 # Workstation-DevOps
 This project is to automate rebuild my prefered DevOps workstation setup. 
 
-# Prerequisites
+## Prerequisites
 
-# Supported OS
+## Supported OS
 
 * OSX
 * Windows 10
-* Ubuntu Server
-* IOS: iPhone
-* IOS: iPad
-* Docker image
+* TODO: Ubuntu Server
 
-# System roles
+## System roles
 
-* Default system role
+### Default system role
  * Slack
  * Google Drive
  * Apple Music
@@ -24,7 +21,8 @@ This project is to automate rebuild my prefered DevOps workstation setup.
  * Cardhop
  * Spark
  * Adobe PDF Reader
-* Digital Art system role
+
+### Digital Art system role
  * Drawing
  * Video editing
  * Photo editing
@@ -36,7 +34,7 @@ This project is to automate rebuild my prefered DevOps workstation setup.
   * Okta
   * vmFusion
 
-* DevOps system role
+### DevOps system role
  * AWS CLI
  * Ansible
  * Chef.oi
@@ -59,22 +57,28 @@ This project is to automate rebuild my prefered DevOps workstation setup.
  * Git Hub Desktop
  * iTerm
  * Beyond Compare
-* Gaming system role
+
+### Gaming system role
  * Minecraft
  * Steam
  * Discord
 
-# Feature Request
+## Feature Request
 
-## Automanated updates
+### Suportted OS
+* TODO: IOS: iPhone
+* TODO: IOS: iPad
+* TODO: Docker image
+
+### Automanated updates
 Need to have a way for each system to auto update or have a scheduled update deployment.
 
-## Autocomplete dictionary
+### Autocomplete dictionary
 This would be for Desktop and mobile OS.
 
-## App config sync
+### App config sync
 
-## Book mark sync
+### Book mark sync
 Look for a way to sync bookmarks between Chrome and Safri
 
 Windows only:
