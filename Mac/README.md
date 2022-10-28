@@ -264,7 +264,7 @@ brew cask install cakebrew
 # Wireshark
 brew cask install wireshark
 
-My macOSX App List
+## My macOSX App List
 #DevSecOps #Code #TODO
 
 App checking:
@@ -551,4 +551,80 @@ Utility: Hardware
 
 
 brew install brew-cask-completion
- 
+
+
+OSX Apps to review
+#Notes-to-Review #Code #TODO #DevSecOps 
+
+
+OSX Default Apps:
+* GarageBand.app
+* Keynote.app
+* Numbers.app
+* Pages.app
+* Safari.app
+* Utilities
+* iMovie.app
+
+https://code.joejag.com/2014/why-zsh.html
+https://github.com/lra/mackup
+https://www.vagrantup.com/
+https://www.packer.io/
+https://www.jetbrains.com/pycharm/
+http://www.sublimetext.com/3
+https://www.mediaatelier.com/CheatSheet/
+https://www.jetbrains.com/products/?fromMenu
+
+GNU Software
+* https://www.gnu.org/software/software.html
+
+Dot files
+* https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/
+* https://github.com/geerlingguy/dotfiles
+
+
+MacPorts
+https://www.macports.org/install.php
+
+Shell Options:
+# Zsh
+
+# Oh My ZSH
+## GitHub URL: https://github.com/ohmyzsh/ohmyzsh
+
+# Fish Shell
+## Home Page URL: https://fishshell.com
+## Homebrew URL: https://formulae.brew.sh/formula/fish#default
+
+Whalebrew
+https://github.com/whalebrew/whalebrew
+
+Dotfiles
+https://github.com/thoughtbot/dotfiles
+* https://github.com/glennr/dotfiles
+* https://github.com/thoughtbot/dotfiles
+
+RCM
+https://github.com/thoughtbot/rcm
+
+Mackup
+https://github.com/lra/mackup
+
+
+
+OSX for Hackers
+https://gist.github.com/MatthewMueller/e22d9840f9ea2fee4716
+
+Ansible
+* https://docs.ansible.com/ansible/latest/community/other_tools_and_programs.html
+* https://opensource.com/article/22/6/install-software-macos-ansible-homebrew
+
+
+Ansible Playbooks for OSX setup
+https://github.com/geerlingguy/mac-dev-playbook
+https://github.com/wilsonmar/ansible-macos-setup
+https://github.com/thoughtbot/laptop
+
+
+Packer OS X
+https://github.com/timsutton/osx-vm-templates
