@@ -1,3 +1,41 @@
+# Workstation Buildout: macOSX
+
+## Prerequisites
+1. Download install app
+2. Run ../Workstation_Bootstrap.bat
+
+
+## Supported Workstation
+### Supported Workstation: OS
+
+### Supported Workstation: Hardware
+
+| Model | Chip Set | macOS | Version 13.0 |
+| ----- | -------- | ----- | ------------ |
+| Mac Mini 2020 | M1 | Ventura | 13.0 |
+
+## Package Manager Install order
+Before adding a new application check if it available in this order form package managers:
+1. Mas
+1. Homebrew
+1. App site dmg
+1. Add it to Homebrew
+1. Build from source
+
+
+## Workstation roles
+
+### Workstationt Role: Default 
+
+### Workstationt Role: Digital Art
+
+### Workstationt Role: DevSecOps
+
+
+## Feature Request
+
+
+# 
 # My OSX setup script
 
 # Package Manager Install order

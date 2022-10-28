@@ -1,5 +1,12 @@
-# Base system setup
+# Build OSX WorkStation
+Path: ./macOS/Build_OSX_WorkStation.sh
 
+## Feature Request
+
+
+
+## Old Script
+```bash
 #!/bin/bash
 
 ############ Set up ############
@@ -124,3 +131,5 @@ brew openssl
 # Check installed versions
 vagrant -v
 vboxmanage -v
+
+```

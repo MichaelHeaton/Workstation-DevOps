@@ -1,13 +1,4 @@
-OSX boot strap: Manual
-
-# Package Manager Install order
-## Before adding a new application check if it available in this order form package managers:
-### 1. Mas
-### 2. Homebrew
-### 3. App site dmg
-### 3a. Add it to Homebrew
-### 4. Build from source
- 
+# OSX boot strap: Manual
 
 # Home Brew Install M1
 ## Install Doc URL: https://docs.brew.sh/Installation

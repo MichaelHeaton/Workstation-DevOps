@@ -9,6 +9,12 @@ This project is to automate rebuild my prefered DevOps workstation setup.
 * Windows 10
 * TODO: Ubuntu Server
 
+
+## How to
+Run
+```bash
+./Workstation_Bootstrap.bat
+```
 ## System roles
 
 ### Default system role
