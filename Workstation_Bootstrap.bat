@@ -6,7 +6,7 @@
 #!/usr/bin/env bash
 if [ "$(uname)" == "Darwin" ]; then
     # Do something under Mac OS X platform
-    echo 'Mac OS X'
+    echo 'Workstation identified as: Mac OS X'
     ./macOS/Build_OSX_WorkStation.sh
 elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     # Do something under GNU/Linux platform
