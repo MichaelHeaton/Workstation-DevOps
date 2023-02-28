@@ -35,6 +35,25 @@ Before adding a new application check if it available in this order form package
 ## Feature Request
 
 
+## App review List
+## MAS Install list 
+403012667   Textual                       (4.1.8)
+441258766   Magnet                        (2.9.0)
+412529613   Cinch                         (1.2.4)
+450986437   iDesktop                      (1.3)
+
+975937182   Fantastical                   (3.6.6)
+1290358394  Cardhop                       (2.0.10)
+1176895641  Spark                         (2.11.22)
+1055511498  Day One                       (7.12)
+803453959   Slack        (4.28.184)
+
+586862299   Duplicate Cleaner For iPhoto  (1.28)
+1037126344  Apple Configurator            (2.15.1)
+1295203466  Microsoft Remote Desktop      (10.7.8)
+963642514   Duplicate Photos Fixer Pro    (4.5)
+406056744   Evernote                      (10.41.5)
+
 # 
 # My OSX setup script
 
@@ -122,34 +141,6 @@ beyond-compare		github			notion			slack			sublime-text		visual-studio-code
 chef-workstation	google-drive		postman			sourcetree		vagrant
 ```
 
-## MAS CLI for OSX
-[GitHub](https://github.com/mas-cli/mas)
-
-```
-$ mas list
-
-926036361   LastPass                      (4.4.0)
-406056744   Evernote                      (10.41.5)
-409183694   Keynote                       (12.1)
-403012667   Textual                       (4.1.8)
-419330170   Moom                          (3.2.25)
-441258766   Magnet                        (2.9.0)
-682658836   GarageBand                    (10.4.6)
-450986437   iDesktop                      (1.3)
-1290358394  Cardhop                       (2.0.10)
-586862299   Duplicate Cleaner For iPhoto  (1.28)
-409203825   Numbers                       (12.1)
-1458095236  FileZilla                     (3.43.0)
-409201541   Pages                         (12.1)
-975937182   Fantastical                   (3.6.6)
-408981434   iMovie                        (10.3.3)
-1037126344  Apple Configurator            (2.15.1)
-1295203466  Microsoft Remote Desktop      (10.7.8)
-963642514   Duplicate Photos Fixer Pro    (4.5)
-1176895641  Spark                         (2.11.22)
-1055511498  Day One                       (7.12)
-412529613   Cinch                         (1.2.4)
-```
 
 # Sofeware List
 https://docs.google.com/spreadsheets/d/1bzjqLgp6l2O_kEGwPejl6Bx_PdKMLcAWXgiPO_i4m2E/edit#gid=0
@@ -157,11 +148,6 @@ https://docs.google.com/spreadsheets/d/1bzjqLgp6l2O_kEGwPejl6Bx_PdKMLcAWXgiPO_i4
 ## OSX Package Management
 ## Homebrew
 
-## Mas-cli
-URL: https://github.com/mas-cli/mas
-```
-brew install mas
-```
 
 ## DevOps Tools
 ### Vault CLI
@@ -174,12 +160,6 @@ brew cask install Etcher
 # Open SSL
 brew openssl
 
-# Telnet
-brew telnet
-# Remote Desketop Manager
-brew cask install remote-desktop-manager
-
- Go Pro
 
 # Install Zsh
 # Site: https://code.joejag.com/2014/why-zsh.html
@@ -193,47 +173,11 @@ brew install mackup
 # Site: https://asciinema.org/
 brew install asciinema
 
-# Install ChefDK
-# brew cask install chefdk
-
-# OpenVPN
-
-# Wireshark
-brew cask install wireshark
-
-# Install The Unarchiver (Because some people just have to use non-standard archive formats)
-brew cask install the-unarchiver
-
-# Install Java 8
-brew cask install caskroom/versions/java8
-
-# wget
-brew install wget
-
-# tmux
-brew install tmux
-
-# htop
-brew install htop
-# Install VMware-Remote-Console
-brew cask install vmware-remote-console
-
-# VMWare Fusion
-brew cask install vmware-fusion
-
 # Install Editor Config
 # Site: http://brewformulas.org/Editorconfig
 brew install editorconfig
 
-# Install Sublime Text
-# Site: https://www.sublimetext.com/
-brew cask install sublime-text
 
-# Visual Studio Code
-brew cask install visual-studio-code
-
-# Install Python 3
-brew install python
 # Vagrant
 # https://www.vagrantup.com/
 
@@ -243,34 +187,9 @@ brew install python
 # Postman
 brew cask install postman
 
-# Install Source Tree
-brew cask install sourcetree
-
-# Install Git Hub Desktop
-brew cask install github
-
-# Install GitHub Atom
-brew cask install Atom
-
-# Evernote
-brew cask install Evernote
-
-# Install FileZilla
-brew cask install filezilla
-
-# Open SSL
-brew openssl
-
-# Telnet
-brew telnet
 
 # Beyonn Compare
 brew cask install beyond-compare
-
-# Install Etcher Create USB ISO
-brew cask install Etcher
-
-# Go Pro
 
 # Install Zsh
 Site: https://code.joejag.com/2014/why-zsh.html
@@ -283,24 +202,6 @@ brew install mackup
 # Install Asciicast - Record and share your terminal sessions
 Site: https://asciinema.org/
 brew install asciinema
-
-# Install ChefDK
-brew cask install chefdk
-
-# Install Ansible
-pip install ansible
-pip install "pywinrm>=0.2.2"
-pip install netaddr
-pip install hvac
-
-# Cakebrew - The Homebrew GUI App for OS X
-https://github.com/brunophilipe/Cakebrew
-brew cask install cakebrew
-
-# OpenVPN
-
-# Wireshark
-brew cask install wireshark
 
 ## My macOSX App List
 #DevSecOps #Code #TODO
@@ -330,10 +231,6 @@ Entertainment & Gaming:
     * URL: https://www.minecraft.net/en-us
     * Homebrew URL: https://formulae.brew.sh/cask/minecraft
     * brew install --cask minecraft
-* Steam.app
-    * URL: https://store.steampowered.com/about/
-    * HomeBrew URL: https://formulae.brew.sh/cask/steam#default
-    * brew install --cask steam
 * Steam Link
     * App Store URL: https://apps.apple.com/us/app/steam-link/id1246969117
 * Amazon Prime Video
@@ -348,10 +245,7 @@ Communication:
     * URL: https://workspace.google.com/products/chat/
     * Homebrew URL: https://formulae.brew.sh/cask/google-chat#default
     * brew install --cask google-chat
-* Zoom.us.app
-    * URL: https://www.zoom.us
-    * Homebrew URL: https://formulae.brew.sh/cask/zoom#default
-    * brew install --cask zoom
+
 * Discord.app
     * URL: https://discord.com/
     * Homebrew URL: https://formulae.brew.sh/cask/discord#default
@@ -561,48 +455,34 @@ Utility: Hardware
 
 
 ➜  ~ mas list
-408981434   iMovie      (10.3.3)
-409183694   Keynote     (12.0)
-926036361   LastPass    (4.4.0)
-682658836   GarageBand  (10.4.6)
-409201541   Pages       (12.0)
-409203825   Numbers     (12.0)
 586862299   Duplicate Cleaner For iPhoto  (1.27)
-441258766   Magnet                        (2.7.0)
-409183694   Keynote                       (11.2)
-408981434   iMovie                        (10.3.1)
-1295203466  Microsoft Remote Desktop      (10.7.3)
-406056744   Evernote                      (10.27.5)
-450986437   iDesktop                      (1.3)
-926036361   LastPass                      (4.4.0)
-1055511498  Day One                       (6.14.1)
-419330170   Moom                          (3.2.24)
-409201541   Pages                         (11.2)
-963642514   Duplicate Photos Fixer Pro    (4.0)
-403012667   Textual                       (4.1.8)
-682658836   GarageBand                    (10.4.5)
-1176895641  Spark                         (2.11.9)
-1458095236  FileZilla                     (3.43.0)
-412529613   Cinch                         (1.2.4)
-409203825   Numbers                       (11.2)
+## App Store: 
 
+1295203466  Microsoft Remote Desktop      (10.7.3)
+## App Store: 
+
+450986437   iDesktop                      (1.3)
+## App Store: https://apps.apple.com/us/app/idesktop/id450986437?mt=12
+1055511498  Day One                       (6.14.1)
+## App Store: 
+
+963642514   Duplicate Photos Fixer Pro    (4.0)
+## App Store: 
+
+403012667   Textual                       (4.1.8)
+## App Store: 
+
+1176895641  Spark                         (2.11.9)
+## App Store: https://apps.apple.com/us/app/spark-email-app-by-readdle/id1176895641?mt=12
+
+1458095236  FileZilla                     (3.43.0)
+## App Store: 
+
+412529613   Cinch                         (1.2.4)
+## App store: https://apps.apple.com/us/app/cinch/id412529613?mt=12
 
 
 brew install brew-cask-completion
-
-
-OSX Apps to review
-#Notes-to-Review #Code #TODO #DevSecOps 
-
-
-OSX Default Apps:
-* GarageBand.app
-* Keynote.app
-* Numbers.app
-* Pages.app
-* Safari.app
-* Utilities
-* iMovie.app
 
 https://code.joejag.com/2014/why-zsh.html
 https://github.com/lra/mackup
