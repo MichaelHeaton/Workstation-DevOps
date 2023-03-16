@@ -22,6 +22,12 @@ brew cask install Discord
 ## Brew: https://formulae.brew.sh/cask/signal
 brew install --cask signal
 
+# ChatGPT
+# https://github.com/lencx/ChatGPT
+
+brew tap lencx/chatgpt https://github.com/lencx/ChatGPT.git
+brew install --cask chatgpt --no-quarantine
+
 ########################################################
 # Smart Home
 ########################################################
