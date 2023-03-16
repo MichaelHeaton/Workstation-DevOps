@@ -1,6 +1,9 @@
 # Workstation-DevOps
 This project is to automate rebuild my prefered DevOps workstation setup. 
 
+## ToDo List:
+* learn about Brewfile
+
 ## Prerequisites
 
 ## Supported OS
