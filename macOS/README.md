@@ -305,6 +305,9 @@ DevOps:
         * URL:
 * Atom.app
     * brew install --cask atom
+* SourceTree
+    * URL: https://www.atlassian.com/software/sourcetree
+    * brew install --cask sourcetree
 * GitHub Desktop.app
     * URL: https://formulae.brew.sh/cask/github#default
     * brew install --cask github
