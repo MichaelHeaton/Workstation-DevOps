@@ -15,7 +15,8 @@ brew cask install Spotify
 # Communication apps
 ########################################################
 # Discord
-brew cask install Discord
+## Brew: https://formulae.brew.sh/cask/discord
+brew install --cask discord
 
 # Signal
 ## URL: https://signal.org/
