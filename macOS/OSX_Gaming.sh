@@ -35,3 +35,19 @@ brew install --cask chatgpt --no-quarantine
 
 # Ring doorbell
 brew cask install Ring
+
+
+########################################################
+# Media
+########################################################
+# Handbrake
+## URL: https://handbrake.fr/
+## Brew: https://formulae.brew.sh/formula/handbrake
+brew install handbrake
+
+
+# libdvdcss
+## libdvdcss is a simple library designed for accessing DVDs like a block device without having to bother about the decryption.
+## URL: https://www.videolan.org/developers/libdvdcss.html
+## Brew: https://formulae.brew.sh/formula/libdvdcss
+brew install libdvdcss
