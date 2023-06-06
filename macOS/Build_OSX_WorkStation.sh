@@ -116,3 +116,7 @@ brew install github
 ### Homebrew URL: https://formulae.brew.sh/formula/synergy-core#default
 brew install synergy-core
 
+# Install Notion
+## URL: https://www.notion.so/
+## Homebrew URL: https://formulae.brew.sh/cask/notion
+brew install --cask notion
