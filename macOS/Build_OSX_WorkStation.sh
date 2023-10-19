@@ -120,3 +120,10 @@ brew install synergy-core
 ## URL: https://www.notion.so/
 ## Homebrew URL: https://formulae.brew.sh/cask/notion
 brew install --cask notion
+
+
+# Install Synology Drive
+## URL: https://www.notion.so/
+## Homebrew URL: https://www.synology.com/en-global/dsm/feature/drive
+## Mobile App URL: https://apps.apple.com/us/app/synology-drive/id1267275421?ls=1
+brew install --cask synology-drive
