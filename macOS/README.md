@@ -37,17 +37,26 @@ Before adding a new application check if it available in this order form package
 
 ## App review List
 ## MAS Install list 
+497799835   Xcode           (15.0.1)
+441258766   Magnet          (2.13.0)
+975937182   Fantastical     (3.8.9)
+408981434   iMovie          (10.4)
+425424353   The Unarchiver  (4.3.6)
+409183694   Keynote         (13.2)
+6445813049  Spark Desktop   (3.10.6)
+1055511498  Day One         (2023.24)
+803453959   Slack           (4.35.131)
+419330170   Moom            (3.2.25)
+409201541   Pages           (13.2)
+1176895641  Spark           (2.11.36)
+682658836   GarageBand      (10.4.10)
+409203825   Numbers         (13.2)
+1290358394  Cardhop         (2.2.14)
+926036361   LastPass        (4.124.0)
+
 403012667   Textual                       (4.1.8)
-441258766   Magnet                        (2.9.0)
 412529613   Cinch                         (1.2.4)
 450986437   iDesktop                      (1.3)
-
-975937182   Fantastical                   (3.6.6)
-1290358394  Cardhop                       (2.0.10)
-1176895641  Spark                         (2.11.22)
-1055511498  Day One                       (7.12)
-803453959   Slack        (4.28.184)
-
 586862299   Duplicate Cleaner For iPhoto  (1.28)
 1037126344  Apple Configurator            (2.15.1)
 1295203466  Microsoft Remote Desktop      (10.7.8)

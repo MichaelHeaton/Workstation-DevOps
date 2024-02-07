@@ -127,3 +127,9 @@ brew install --cask notion
 ## Homebrew URL: https://www.synology.com/en-global/dsm/feature/drive
 ## Mobile App URL: https://apps.apple.com/us/app/synology-drive/id1267275421?ls=1
 brew install --cask synology-drive
+
+
+# Install Etcher (Ubuntu boot USB)
+## URL:
+## Homebrew URL: https://formulae.brew.sh/cask/balenaetcher
+brew install --cask balenaetcher
