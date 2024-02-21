@@ -133,3 +133,24 @@ brew install --cask synology-drive
 ## URL:
 ## Homebrew URL: https://formulae.brew.sh/cask/balenaetcher
 brew install --cask balenaetcher
+
+# Install Terrafrom
+## URL: https://www.terraform.io/
+## Homebrew URL: https://formulae.brew.sh/formula/terraform#default
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+
+# Install Docker Desktop, Docker Community Edition, Docker CE 
+## URL: https://www.docker.com/products/docker-desktop/
+## Homebrew URL: https://formulae.brew.sh/cask/docker
+brew install docker --cask
+
+
+# Install docker-completion
+## Homebrew URL: https://formulae.brew.sh/formula/docker-completion
+brew install docker-completion
+
+# Install docker-compose
+## URL: https://docs.docker.com/compose/
+## Homebrew URL: https://formulae.brew.sh/formula/docker-compose
+brew install docker-compose
